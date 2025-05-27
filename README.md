@@ -6,7 +6,7 @@
 
 ### 🔧 My tech stack:
 
-| **Фронтенд**       | **Инструменты**        |  
+| **FRONTEND**       | **TOOLS**        |  
 |-------------------|--------------------|  
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white) |  
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white) |  
